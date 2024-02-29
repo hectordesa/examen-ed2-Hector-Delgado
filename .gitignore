@@ -1,4 +1,4 @@
-events
+events/
 *lock.json
 src/node_modules/**
 layers/**/*.class
